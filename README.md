@@ -1,5 +1,6 @@
 # life-sized-robot
-Code for the Arduino life-sized robot I created. The robot can talk, move its hands, and cut a cake with a knife:
+I lost the code for the Arduino-based life-sized robot I created :(
+The robot can talk, move its hands, and cut a cake with a knife:
 
 Materials Required:
   a) 2 Arduinos
