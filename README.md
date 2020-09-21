@@ -7,7 +7,7 @@ The robot can talk, move its hands, and cut a cake with a knife.
 
 Materials Required:
 
-  a) 2 ATmega328Ps with breakout boards or 2 Arduinos
+  a) 2 ATmega328Ps with breakout boards
 
   b) Life-sized cardboard cutout
 
